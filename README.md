@@ -1,5 +1,7 @@
 # Nextgifto Telegram Userbot App
 
+Nextgifto Telegram Userbot Sebuah applikasi yang memungkinkan menjaalankan userbot telegram secara gratis di hp tanpa biaya apapun 100% REAL Tidak perlu data pribadi (tidak perlu kartu kredit)
+
 
 <!-- ⚠️🫠🪪📚📏😇🙏 -->
 | ⚠️                      | 🫠                     | 🪪                     | 📚                     | 📏                     |
