@@ -5,8 +5,7 @@ Nextgifto Telegram Userbot Sebuah applikasi yang memungkinkan menjaalankan userb
 #### Link Download
 
 - ANDROID
-  - [PLAY STORE](https://play.google.com/store/apps/details?id=global_corporation.nextgifto.nextgifto_telegram_userbot_app)
-  - [Direct Download](https://github.com/archivon-apps-stores/nextgifto_telegram_userbot/releases/download/release/app-arm64-v8a-release.apk)
+   - [Direct Download](https://github.com/archivon-apps-stores/nextgifto_telegram_userbot/releases/download/release/app-arm64-v8a-release.apk)
 
 Layanan gratis hanya tersedia di android lainya nyusul
 
